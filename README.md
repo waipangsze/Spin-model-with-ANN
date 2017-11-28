@@ -1,0 +1,1 @@
+# Spin-model-with-ANN
